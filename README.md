@@ -6,11 +6,8 @@ The project is designed as a professional GitHub portfolio project. It includes 
 
 ## Screenshot
 
-Add your screenshot here after running the project locally.
+<img width="2848" height="1624" alt="image" src="https://github.com/user-attachments/assets/79171c75-e0f3-4dfc-8d9d-a154a5e8d413" />
 
-```md
-![AI Study Planner Screenshot](docs/screenshot.png)
-```
 
 ## Features
 
